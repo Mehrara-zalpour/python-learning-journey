@@ -13,7 +13,7 @@ This repository contains beginner Python projects that I complete while learning
 |  01 | Simple Calculator     | 21-04-1405 |   ✅   |
 |  02 | Even or Odd Checker   | 22-04-1405 |   ✅   |
 |  03 | Temperature Converter | 22-04-1405 |   ✅   |
-|  04 | BMI Calculator        |            |   ⏳   |
+|  04 | BMI Calculator        | 22-04-1405 |   ✅   |
 |  05 | Guess the Number      |     ⏳     |
 |  06 | Multiplication Table  |     ⏳     |
 |  07 | Prime Number Checker  |     ⏳     |
@@ -34,7 +34,8 @@ This repository contains beginner Python projects that I complete while learning
 - Mathematical Operations
 - String Methods (`lower()`)
 - Formatted Strings (f-strings)
-
+- Comparison Operators
+- Input Validation
 ---
 
 ## Repository Structure
