@@ -14,14 +14,28 @@ This repository contains beginner Python projects that I complete while learning
 |  02 | Even or Odd Checker   | 22-04-1405 |   ✅   |
 |  03 | Temperature Converter | 22-04-1405 |   ✅   |
 |  04 | BMI Calculator        | 22-04-1405 |   ✅   |
-|  05 | Guess the Number      |     ⏳     |
-|  06 | Multiplication Table  |     ⏳     |
-|  07 | Prime Number Checker  |     ⏳     |
-|  08 | Password Generator    |     ⬜     |
-|  09 | Unit Converter        |     ⬜     |
-|  10 | Rock Paper Scissors   |     ⬜     |
+|  05 | Guess the Number      | 23-04-1405 |   ✅   |
+|  06 | Password Generator    | 23-04-1405 |   ✅   |  
+|  07 | Multiplication Table  |     ⏳     |
+|  08 | Prime Number Checker  |     ⏳      |
+|  09 | Unit Converter        |     ⏳      |
+|  10 | Rock Paper Scissors   |     ⏳      |
 
 ---
+
+### Features
+
+- Random number generation
+- Input validation
+- Too high / Too low hints
+- Attempt counter
+- Play again option
+- Generate random passwords
+- User-defined password length
+- Supports letters, digits, and special characters
+- Input validation
+- Generate multiple passwords without restarting the program
+
 
 ## Concepts Practiced
 
@@ -36,18 +50,32 @@ This repository contains beginner Python projects that I complete while learning
 - Formatted Strings (f-strings)
 - Comparison Operators
 - Input Validation
+- while loop
+- if / elif / else
+- try / except
+- random module
+- Input validation
+- Nested loops
+- while loop
+- for loop
+- string module
+- String concatenation
+
 ---
 
 ## Repository Structure
-
-```text
 python-learning-journey/
 │
 ├── screenshots/
+│
 ├── 01_simple_calculator.py
 ├── 02_even_or_odd_checker.py
-├── README.md
-```
+├── 03_temperature_converter.py
+├── 04_bmi_calculator.py
+├── 05_guess_the_number.py
+├── 06_password_generator.py
+│
+└── README.md
 
 ---
 
