@@ -16,10 +16,10 @@ This repository contains beginner Python projects that I complete while learning
 |  04 | BMI Calculator        | 22-04-1405 |   ✅   |
 |  05 | Guess the Number      | 23-04-1405 |   ✅   |
 |  06 | Password Generator    | 23-04-1405 |   ✅   |  
-|  07 | Multiplication Table  |     ⏳     |
-|  08 | Prime Number Checker  |     ⏳      |
-|  09 | Unit Converter        |     ⏳      |
-|  10 | Rock Paper Scissors   |     ⏳      |
+|  07 | Multiplication Table  | 23-04-1405 |   ✅   |
+|  08 | Prime Number Checker  |     ⏳     |        |
+|  09 | Unit Converter        |     ⏳     |       |
+|  10 | Rock Paper Scissors   |     ⏳     |       |
 
 ---
 
@@ -74,9 +74,9 @@ python-learning-journey/
 ├── 04_bmi_calculator.py
 ├── 05_guess_the_number.py
 ├── 06_password_generator.py
+├── 07_multiplication_table.py
 │
 └── README.md
-
 ---
 
 ## Author
