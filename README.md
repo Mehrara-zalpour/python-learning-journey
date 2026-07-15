@@ -1,69 +1,47 @@
 # Python Learning Journey 🐍
 
-Welcome to my Python learning journey!
+A collection of beginner-friendly Python projects created while learning Python from scratch.
 
-This repository contains beginner Python projects that I complete while learning Python. Each project helps me practice a new programming concept and improve my problem-solving skills.
+Each project focuses on practicing core programming concepts through hands-on coding.
 
----
+## Completed Projects
 
-## Projects
-
-| No. | Project               | Completed  | Status |
-| --: | --------------------- | :--------: | :----: |
-|  01 | Simple Calculator     | 21-04-1405 |   ✅   |
-|  02 | Even or Odd Checker   | 22-04-1405 |   ✅   |
-|  03 | Temperature Converter | 22-04-1405 |   ✅   |
-|  04 | BMI Calculator        | 22-04-1405 |   ✅   |
-|  05 | Guess the Number      | 23-04-1405 |   ✅   |
-|  06 | Password Generator    | 23-04-1405 |   ✅   |  
-|  07 | Multiplication Table  | 23-04-1405 |   ✅   |
-|  08 | Prime Number Checker  |     ⏳     |        |
-|  09 | Unit Converter        |     ⏳     |       |
-|  10 | Rock Paper Scissors   |     ⏳     |       |
-
----
-
-### Features
-
-- Random number generation
-- Input validation
-- Too high / Too low hints
-- Attempt counter
-- Play again option
-- Generate random passwords
-- User-defined password length
-- Supports letters, digits, and special characters
-- Input validation
-- Generate multiple passwords without restarting the program
-
+- ✅ 01 - Simple Calculator
+- ✅ 02 - Even or Odd Checker
+- ✅ 03 - Temperature Converter
+- ✅ 04 - BMI Calculator
+- ✅ 05 - Guess the Number
+- ✅ 06 - Password Generator
+- ✅ 07 - Multiplication Table
+- ✅ 08 - Prime Number Checker
+- ✅ 09 - Unit Converter
 
 ## Concepts Practiced
 
+Throughout these projects, I have practiced:
+
 - Variables
-- User Input
-- Data Types
-- Conditional Statements
-- Loops (`while`)
-- Exception Handling (`try/except`)
-- Mathematical Operations
-- String Methods (`lower()`)
-- Formatted Strings (f-strings)
+- User Input (`input()`)
+- Data Types (`int`, `float`, `str`, `bool`)
+- Arithmetic Operators
 - Comparison Operators
+- `if`, `elif`, `else`
+- `while` loops
+- `for` loops
+- `range()`
+- `break`
+- `continue`
+- `try` / `except`
 - Input Validation
-- while loop
-- if / elif / else
-- try / except
-- random module
-- Input validation
-- Nested loops
-- while loop
-- for loop
-- string module
-- String concatenation
+- Boolean Variables
+- Basic Algorithms
+- Random Module
+- String Module
+- Formatted Strings (f-strings)
 
----
+## Project Structure
 
-## Repository Structure
+```text
 python-learning-journey/
 │
 ├── screenshots/
@@ -75,12 +53,19 @@ python-learning-journey/
 ├── 05_guess_the_number.py
 ├── 06_password_generator.py
 ├── 07_multiplication_table.py
-│
+├── 08_prime_number_checker.py
+├── 09_unit_converter.py
 └── README.md
----
+```
+
+## Goals
+
+This repository documents my journey of learning Python by building practical projects step by step.
+
+My goal is to build a strong Python foundation before moving on to Django and backend development.
 
 ## Author
 
 **Mehrara**
 
-Started: 21-04-1405
+Started: July 2026
