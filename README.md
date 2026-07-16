@@ -15,6 +15,7 @@ Each project focuses on practicing core programming concepts through hands-on co
 - ✅ 07 - Multiplication Table
 - ✅ 08 - Prime Number Checker
 - ✅ 09 - Unit Converter
+- ✅ 10 - Rock Paper Scissors
 
 ## Concepts Practiced
 
@@ -55,6 +56,7 @@ python-learning-journey/
 ├── 07_multiplication_table.py
 ├── 08_prime_number_checker.py
 ├── 09_unit_converter.py
+|
 └── README.md
 ```
 
