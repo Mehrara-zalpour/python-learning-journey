@@ -4,6 +4,17 @@ A collection of beginner-friendly Python projects created while learning Python 
 
 Each project focuses on practicing core programming concepts through hands-on coding.
 
+## Features
+
+- User-defined amount of numbers
+- Calculate sum
+- Calculate average
+- Find minimum value
+- Find maximum value
+- Input validation
+- Play again option
+
+
 ## Completed Projects
 
 - ✅ 01 - Simple Calculator
@@ -16,6 +27,8 @@ Each project focuses on practicing core programming concepts through hands-on co
 - ✅ 08 - Prime Number Checker
 - ✅ 09 - Unit Converter
 - ✅ 10 - Rock Paper Scissors
+- ✅ 11 -  Number Statistics
+
 
 ## Concepts Practiced
 
@@ -39,6 +52,22 @@ Throughout these projects, I have practiced:
 - Random Module
 - String Module
 - Formatted Strings (f-strings)
+- Lists
+- while loops
+- if / elif / else
+- Boolean logic (and / or)
+- random.choice()
+- Input validation
+- Lists
+- append()
+- for loops
+- while loops
+- try / except
+- sum()
+- len()
+- min()
+- max()
+- Basic statistics
 
 ## Project Structure
 
@@ -56,6 +85,8 @@ python-learning-journey/
 ├── 07_multiplication_table.py
 ├── 08_prime_number_checker.py
 ├── 09_unit_converter.py
+├── 10_rock_paper_scissors.py
+├── 11_number_statistics.py
 |
 └── README.md
 ```
