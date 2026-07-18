@@ -1,104 +1,103 @@
-# Python Learning Journey 🐍
+# 🐍 Python Learning Journey
 
-A collection of beginner-friendly Python projects created while learning Python from scratch.
+Welcome to my Python learning journey!
 
-Each project focuses on practicing core programming concepts through hands-on coding.
+This repository contains the projects I build while learning Python from the basics. My goal is not only to finish projects, but also to understand the concepts deeply and build a strong programming foundation before moving on to Django and larger applications.
 
-## Features
+---
 
-- User-defined amount of numbers
-- Calculate sum
-- Calculate average
-- Find minimum value
-- Find maximum value
-- Input validation
-- Play again option
+## 📚 Completed Projects
 
+| No. | Project | Status |
+|----:|-----------------------------|:------:|
+| 01 | Simple Calculator | ✅ |
+| 02 | Even or Odd Checker | ✅ |
+| 03 | Temperature Converter | ✅ |
+| 04 | BMI Calculator | ✅ |
+| 05 | Guess the Number | ✅ |
+| 06 | Password Generator | ✅ |
+| 07 | Multiplication Table | ✅ |
+| 08 | Prime Number Checker | ✅ |
+| 09 | Unit Converter | ✅ |
+| 10 | Rock Paper Scissors | ✅ |
+| 11 | Number Statistics | ✅ |
+| 12 | Leap Year Checker | ✅ |
+| 13 | Countdown Timer (CLI) | ✅ |
+| 14 | Basic Quiz | ✅ |
 
-## Completed Projects
+---
 
-- ✅ 01 - Simple Calculator
-- ✅ 02 - Even or Odd Checker
-- ✅ 03 - Temperature Converter
-- ✅ 04 - BMI Calculator
-- ✅ 05 - Guess the Number
-- ✅ 06 - Password Generator
-- ✅ 07 - Multiplication Table
-- ✅ 08 - Prime Number Checker
-- ✅ 09 - Unit Converter
-- ✅ 10 - Rock Paper Scissors
-- ✅ 11 -  Number Statistics
-
-
-## Concepts Practiced
-
-Throughout these projects, I have practiced:
+## 🎯 Concepts I've Practiced
 
 - Variables
-- User Input (`input()`)
-- Data Types (`int`, `float`, `str`, `bool`)
+- Data Types
+- User Input
+- Print Formatting
 - Arithmetic Operators
 - Comparison Operators
-- `if`, `elif`, `else`
-- `while` loops
-- `for` loops
-- `range()`
-- `break`
-- `continue`
-- `try` / `except`
-- Input Validation
-- Boolean Variables
-- Basic Algorithms
-- Random Module
-- String Module
-- Formatted Strings (f-strings)
-- Lists
-- while loops
+- Logical Operators
 - if / elif / else
-- Boolean logic (and / or)
-- random.choice()
-- Input validation
-- Lists
-- append()
-- for loops
-- while loops
+- while Loops
+- for Loops
+- break & continue
 - try / except
-- sum()
-- len()
-- min()
-- max()
-- Basic statistics
+- Lists
+- String Manipulation
+- Random Module
+- Time Module
+- Input Validation
+- Basic Game Logic
+- Score Counter
+- Countdown Timer
+- Prime Number Logic
+- Leap Year Logic
 
-## Project Structure
+---
 
-```text
-python-learning-journey/
-│
-├── screenshots/
-│
-├── 01_simple_calculator.py
-├── 02_even_or_odd_checker.py
-├── 03_temperature_converter.py
-├── 04_bmi_calculator.py
-├── 05_guess_the_number.py
-├── 06_password_generator.py
-├── 07_multiplication_table.py
-├── 08_prime_number_checker.py
-├── 09_unit_converter.py
-├── 10_rock_paper_scissors.py
-├── 11_number_statistics.py
-|
-└── README.md
+## 🎯 Goal
+
+My goal is to complete **50 Python projects** while understanding the fundamentals instead of simply copying code.
+
+After building a strong Python foundation, I plan to continue learning **Django** and work on larger real-world projects.
+
+---
+
+## 🚀 How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/python-learning-journey.git
 ```
 
-## Goals
+Go to the project folder:
 
-This repository documents my journey of learning Python by building practical projects step by step.
+```bash
+cd python-learning-journey
+```
 
-My goal is to build a strong Python foundation before moving on to Django and backend development.
+Run any project:
 
-## Author
+```bash
+python 01_simple_calculator.py
+```
+
+---
+
+## 📈 Progress
+
+Completed:
+
+**14 / 50 Projects**
+
+Current Progress:
+
+**28%**
+
+---
+
+## 👩‍💻 Author
 
 **Mehrara**
 
-Started: July 2026
+Learning Python one project at a time. 🚀

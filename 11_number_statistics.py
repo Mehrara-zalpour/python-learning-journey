@@ -20,7 +20,6 @@ Author: Mehrara
 Date: 2026-07-16
 """
 
-
 running = True
 
 
