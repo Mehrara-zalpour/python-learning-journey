@@ -2,67 +2,116 @@
 
 Welcome to my Python learning journey!
 
-This repository contains the projects I build while learning Python from the basics. My goal is not only to finish projects, but also to understand the concepts deeply and build a strong programming foundation before moving on to Django and larger applications.
+This repository contains the projects I build while learning Python from the ground up. My goal is not only to complete projects but also to understand the core concepts behind them and build a solid programming foundation before moving on to Django, web development, and larger real-world applications.
 
 ---
 
-## 📚 Completed Projects
+# 📚 Completed Projects
 
-| No. | Project | Status |
-|----:|-----------------------------|:------:|
-| 01 | Simple Calculator | ✅ |
-| 02 | Even or Odd Checker | ✅ |
-| 03 | Temperature Converter | ✅ |
-| 04 | BMI Calculator | ✅ |
-| 05 | Guess the Number | ✅ |
-| 06 | Password Generator | ✅ |
-| 07 | Multiplication Table | ✅ |
-| 08 | Prime Number Checker | ✅ |
-| 09 | Unit Converter | ✅ |
-| 10 | Rock Paper Scissors | ✅ |
-| 11 | Number Statistics | ✅ |
-| 12 | Leap Year Checker | ✅ |
-| 13 | Countdown Timer (CLI) | ✅ |
-| 14 | Basic Quiz | ✅ |
-
----
-
-## 🎯 Concepts I've Practiced
-
-- Variables
-- Data Types
-- User Input
-- Print Formatting
-- Arithmetic Operators
-- Comparison Operators
-- Logical Operators
-- if / elif / else
-- while Loops
-- for Loops
-- break & continue
-- try / except
-- Lists
-- String Manipulation
-- Random Module
-- Time Module
-- Input Validation
-- Basic Game Logic
-- Score Counter
-- Countdown Timer
-- Prime Number Logic
-- Leap Year Logic
+|  No. | Project                          | Main Concepts                          |
+| ---: | -------------------------------- | -------------------------------------- |
+| ✅ 01 | Simple Calculator                | if / elif / else, Arithmetic Operators |
+| ✅ 02 | Even or Odd Checker              | Modulo Operator (%)                    |
+| ✅ 03 | Temperature Converter            | Data Types, float                      |
+| ✅ 04 | BMI Calculator                   | Conditional Statements                 |
+| ✅ 05 | Guess the Number                 | Random Module                          |
+| ✅ 06 | Password Generator               | String Module, Random                  |
+| ✅ 07 | Multiplication Table             | for Loop, range()                      |
+| ✅ 08 | Prime Number Checker             | Loops, Basic Algorithms                |
+| ✅ 09 | Unit Converter                   | Menu System                            |
+| ✅ 10 | Rock Paper Scissors              | Game Logic                             |
+| ✅ 11 | Number Statistics                | Lists                                  |
+| ✅ 12 | Leap Year Checker                | Compound Conditions                    |
+| ✅ 13 | Countdown Timer                  | time Module                            |
+| ✅ 14 | Basic Quiz                       | Dictionaries                           |
+| ✅ 15 | Dice Roller                      | Random Numbers, Lists                  |
+| ✅ 16 | Password Strength Checker        | String Methods                         |
+| ✅ 17 | Hangman (Mini Version)           | Lists, Loops, String Processing        |
+| ✅ 18 | Simple Stopwatch                 | time.time()                            |
+| ✅ 19 | Number Guessing Game (Functions) | Functions, Game Structure              |
+| ✅ 20 | Mini Banking System              | Functions, Program Design              |
 
 ---
 
-## 🎯 Goal
+# 🧠 Concepts I've Practiced
 
-My goal is to complete **50 Python projects** while understanding the fundamentals instead of simply copying code.
+### Python Fundamentals
 
-After building a strong Python foundation, I plan to continue learning **Django** and work on larger real-world projects.
+* Variables
+* Data Types
+* User Input
+* Print Formatting
+* Arithmetic Operators
+* Comparison Operators
+* Logical Operators
+
+### Control Flow
+
+* if / elif / else
+* while Loops
+* for Loops
+* break
+* continue
+
+### Error Handling
+
+* try / except
+* Input Validation
+
+### Data Structures
+
+* Lists
+* Dictionaries
+* String Manipulation
+
+### Python Modules
+
+* random
+* time
+
+### Functions
+
+* Defining Functions
+* Parameters
+* Return Values
+* Function Design
+* Separating Responsibilities
+
+### Programming Skills
+
+* Menu Systems
+* Basic Algorithms
+* Game Logic
+* Countdown Timer
+* Stopwatch
+* Password Validation
+* Program Structure
+* Problem Solving
 
 ---
 
-## 🚀 How to Run
+# 🎯 Current Goal
+
+My goal is to complete **50 Python projects** while focusing on understanding the logic behind each project instead of simply copying code.
+
+I believe that building strong fundamentals is the best investment before moving on to larger technologies.
+
+---
+
+# 🚀 Future Learning Path
+
+After completing this Python journey, I plan to continue with:
+
+* Django
+* HTML & CSS
+* Bootstrap
+* SQL
+* Git & GitHub
+* Building real-world web applications
+
+---
+
+# ▶️ How to Run
 
 Clone the repository:
 
@@ -70,7 +119,7 @@ Clone the repository:
 git clone https://github.com/your-username/python-learning-journey.git
 ```
 
-Go to the project folder:
+Open the project folder:
 
 ```bash
 cd python-learning-journey
@@ -84,20 +133,20 @@ python 01_simple_calculator.py
 
 ---
 
-## 📈 Progress
+# 📈 Progress
 
-Completed:
+**Completed Projects**
 
-**14 / 50 Projects**
+**20 / 50**
 
-Current Progress:
-
-**28%**
+**Progress:** **40%**
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Mehrara**
 
-Learning Python one project at a time. 🚀
+Learning Python one project at a time.
+
+*"Small projects. Strong foundations. Continuous improvement."* 🚀
