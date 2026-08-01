@@ -1,0 +1,7 @@
+====== EXPENSE TRACKER ======
+
+1. Show Expenses
+2. Add Expense
+3. Delete Expense
+4. Show Total
+5. Exit
