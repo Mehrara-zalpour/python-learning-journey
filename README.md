@@ -2,7 +2,7 @@
 
 Welcome to my Python learning journey!
 
-This repository documents my progress in learning Python through **hands-on projects**, from beginner exercises to more practical command-line applications.
+This repository documents my progress in learning Python through **hands-on projects**, from beginner exercises to practical command-line applications.
 
 Instead of focusing only on theory, I learn new concepts by building projects and applying them in real programs. Each project builds on previously learned concepts while introducing new programming techniques.
 
@@ -34,7 +34,7 @@ My goal is to develop strong Python fundamentals and gradually move toward **API
 | ✅ 18 | Simple Stopwatch | time.time() |
 | ✅ 19 | Number Guessing Game (Functions) | Functions, Program Structure |
 | ✅ 20 | Mini Banking System | Functions, Program Design |
-| ✅ 21 | Password Manager | OOP, File Handling, JSON, Exception Handling |
+| ✅ 21 | Password Manager | File Handling, JSON, Exception Handling |
 | ✅ 22 | Contact Book | CRUD Operations, Dictionaries |
 | ✅ 23 | Expense Tracker | Lists, Dictionaries, File Handling |
 | ✅ 24 | Library Management System | Nested Dictionaries, CRUD Operations |
@@ -49,13 +49,17 @@ My goal is to develop strong Python fundamentals and gradually move toward **API
 | ✅ 33 | Password Generator | random, string, Dictionaries, Input Validation |
 | ✅ 34 | Contact Book v2 | JSON, CRUD Operations, Advanced Search |
 | ✅ 35 | Expense Tracker Pro | JSON, datetime, matplotlib, Data Visualization |
-
+| ✅ 36 | Student Database | SQLite, sqlite3, CRUD Operations |
+| ✅ 37 | Library Database | SQLite, Multiple Tables, JOIN, Foreign Keys |
+| ✅ 38 | Habit Tracker | SQLite, datetime, Multiple Tables, Statistics |
+| ✅ 39 | URL Shortener | hashlib, SHA-256, Hashing, SQLite |
+| ✅ 40 | Image Downloader | requests, pathlib, File Handling, Binary Files |
 
 ---
 
 # 🧠 Skills & Concepts Learned
 
-### Python Fundamentals
+## Python Fundamentals
 
 - Variables and Data Types
 - Conditional Statements
@@ -68,8 +72,10 @@ My goal is to develop strong Python fundamentals and gradually move toward **API
 - Exception Handling
 - Program Structure
 - Working with User Input
+- `enumerate()`
+- Basic Algorithms
 
-### File & Data Handling
+## File & Data Handling
 
 - Text Files
 - JSON
@@ -78,10 +84,12 @@ My goal is to develop strong Python fundamentals and gradually move toward **API
 - File and Directory Management
 - `os` Module
 - `shutil` Module
+- `pathlib` Module
 - Working with File Paths
+- Binary Files
 - Data Persistence
 
-### Python Libraries & Modules
+## Python Libraries & Modules
 
 - `random`
 - `string`
@@ -94,8 +102,11 @@ My goal is to develop strong Python fundamentals and gradually move toward **API
 - `re`
 - `requests`
 - `matplotlib`
+- `sqlite3`
+- `hashlib`
+- `pathlib`
 
-### APIs
+## APIs
 
 - Sending HTTP Requests
 - Working with API Responses
@@ -106,7 +117,39 @@ My goal is to develop strong Python fundamentals and gradually move toward **API
 - Environment Variables
 - Using External APIs in Python Applications
 
-### Data Processing
+## Databases & SQL
+
+- SQLite
+- `sqlite3`
+- Creating Tables
+- Primary Keys
+- Foreign Keys
+- CRUD Operations
+- INSERT
+- SELECT
+- UPDATE
+- DELETE
+- WHERE
+- JOIN
+- GROUP BY
+- COUNT()
+- SUM()
+- AVG()
+- Parameterized Queries
+- Database Relationships
+- Multiple Tables
+- Data Aggregation
+
+## Hashing
+
+- Hashing Concepts
+- SHA-256
+- `hashlib`
+- `encode()`
+- `hexdigest()`
+- Generating Hash-Based Short Codes
+
+## Data Processing
 
 - Searching Data
 - Filtering Data
@@ -117,7 +160,7 @@ My goal is to develop strong Python fundamentals and gradually move toward **API
 - Processing Lists of Dictionaries
 - Working with Structured Data
 
-### Regular Expressions
+## Regular Expressions
 
 - Pattern Matching
 - Searching Text
@@ -125,7 +168,7 @@ My goal is to develop strong Python fundamentals and gradually move toward **API
 - Processing Log Files
 - Using the `re` Module
 
-### Data Visualization
+## Data Visualization
 
 - Creating Bar Charts
 - Using `matplotlib`
@@ -133,7 +176,7 @@ My goal is to develop strong Python fundamentals and gradually move toward **API
 - Displaying Categories and Values
 - Basic Chart Customization
 
-### Programming Practices
+## Programming Practices
 
 - Breaking programs into functions
 - Separating responsibilities between functions
@@ -143,8 +186,11 @@ My goal is to develop strong Python fundamentals and gradually move toward **API
 - Searching and filtering data
 - Building CRUD applications
 - Working with persistent data
+- Working with databases
+- Using SQL queries
 - Building projects incrementally
 - Writing clean and readable code
+- Organizing command-line applications
 
 ---
 
@@ -166,8 +212,12 @@ Projects 26–30
 Datetime, CSV, APIs & Error Handling
         ↓
 Projects 31–35
-File Management, Regex, Search & Data Processing & Data Visualization with matplotlib
+File Management, Regex, Search & Data Visualization
         ↓
-
+Projects 36–40
+SQLite, SQL, Multiple Tables, Hashing,
+HTTP Requests & pathlib
+        ↓
 Next
-Databases, Automation & More Advanced Python
+More Advanced Python,
+Automation, APIs, Databases & Backend Development
